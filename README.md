@@ -143,6 +143,7 @@ List of AI-powered cloud-based developer tools.
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No            | Yes       | No          | Frontend   |
 | [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No            | Yes       | No          | Full-stack |
 | [Builder](https://builder.io)               | [Pro](https://www.builder.io/m/pricing) (30 \$/m)        | No            | Yes       | No          | Frontend   |
+| [VibeKit.bot](https://vibekit.bot)          | Pay-as-you-go (credits)                                  | Free tier     | Yes       | No          | Full-stack |
 
 ---
 
