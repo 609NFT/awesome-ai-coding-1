@@ -137,6 +137,7 @@ List of AI-powered cloud-based developer tools.
 | ------------------------------------------- | -------------------------------------------------------- | ------------- | --------- | ----------- | ---------- |
 | [Firebase Studio](https://firebase.studio/) | -                                                        | No            | Yes       | No          | Full       |
 | [Bolt.diy](https://bolt.diy)                | BYOK                                                     | -             | -         | No          | Full-stack |
+| [VibeKit](https://vibekit.bot)              | BYOK or pay-as-you-go                                    | No            | Yes       | No          | Full-stack |
 | [Softgen](https://softgen.ai)               | BYOK with [Annual](https://softgen.ai/pricing) (33 \$/y) | No            | No        | No          | Full-stack |
 | [Webcrumbs](https://www.webcrumbs.org)      | BYOK                                                     | -             | -         | Yes         | Frontend   |
 | [Blackbox AI](https://blackbox.ai)          | [Pro](https://www.blackbox.ai/pricing) (4 \$/m)          | No            | Yes       | No          | -          |
