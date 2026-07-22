@@ -137,7 +137,6 @@ List of AI-powered cloud-based developer tools.
 | ------------------------------------------- | -------------------------------------------------------- | ------------- | --------- | ----------- | ---------- |
 | [Firebase Studio](https://firebase.studio/) | -                                                        | No            | Yes       | No          | Full       |
 | [Bolt.diy](https://bolt.diy)                | BYOK                                                     | -             | -         | No          | Full-stack |
-| [VibeKit](https://vibekit.bot)              | BYOK or pay-as-you-go                                    | No            | Yes       | No          | Full-stack |
 | [Softgen](https://softgen.ai)               | BYOK with [Annual](https://softgen.ai/pricing) (33 \$/y) | No            | No        | No          | Full-stack |
 | [Webcrumbs](https://www.webcrumbs.org)      | BYOK                                                     | -             | -         | Yes         | Frontend   |
 | [Blackbox AI](https://blackbox.ai)          | [Pro](https://www.blackbox.ai/pricing) (4 \$/m)          | No            | Yes       | No          | -          |
@@ -146,6 +145,7 @@ List of AI-powered cloud-based developer tools.
 | [CodeParrot](https://codeparrot.ai)         | [Pro](https://codeparrot.ai/pricing) (19 \$/m)           | 2-week        | No        | No          | Frontend   |
 | [Co](https://www.co.dev)                    | [Pro](https://www.co.dev/pricing) (19 \$/m)              | No            | Yes       | No          | Full-stack |
 | [v0](https://v0.app)                        | [Premium](https://v0.app/pricing) (20 \$/m)              | No            | Yes       | No          | Frontend   |
+| [VibeKit](https://vibekit.bot)              | BYOK or [Builder](https://vibekit.bot/pricing) (20 \$/m) | No            | Yes       | No          | Full-stack |
 | [replit Agent][replit-ref]                  | Pro (20 \$/m)                                            | No            | Yes       | No          | Full-stack |
 | [Wegic](https://wegic.ai)                   | [Starter](https://wegic.ai/pricing) (24 \$/m)            | No            | No        | No          | Frontend   |
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No            | Yes       | No          | Frontend   |
